@@ -1,0 +1,152 @@
+#first-page {
+    width: 100%;
+    height: 600px;
+    background-image: url(donate-today-main/images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    padding: 5% 29% 0% 25%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+}
+
+.description {
+    color: white;
+    padding: 0% 18%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+    text-align: center;
+
+}
+
+.donate-button {
+    background-color: #4CAF50;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin: 0% 43%;
+}
+
+#amount-list {
+    display: flex;
+    text-align: center;
+    margin: 5% 22% 3% 22%;
+
+}
+
+.amount-button {
+    border: none;
+    border-radius: 5px;
+    margin: 5px 5px;
+    height: 100px;
+    width: 200px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+
+}
+
+#red-button {
+    border: 1px solid red;
+    background-color: rgba(255, 99, 71, 0.315);
+    color: red;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+
+}
+
+#other-amount {
+    margin: 0% 41%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 2em;
+    width: 200px;
+}
+
+#flexible {
+    display: flex;
+    margin: 5% 10% 0% 10%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.flexible-container {
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+}
+
+#food {
+    background-color: rgba(127, 255, 212, 0.336);
+}
+
+#shelter {
+    background-color: rgba(222, 184, 135, 0.432);
+}
+
+#education {
+    background-color: rgba(238, 130, 238, 0.377);
+}
+
+#money {
+    display: flex;
+    margin: 5px 30%;
+}
+
+#percentage {
+    height: 300px;
+}
+
+#expend {
+    padding: 10% 0%;
+    margin-left: 50px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+#email-subscribe {
+    display: flex;
+    background-color: rgb(137, 158, 94);
+    height: 80px;
+    width: 50%;
+    margin: 2% 10% 2% 16%;
+    padding: 5% 10%;
+}
+
+#email {
+    height: 41px;
+    width: 400px;
+    background-color: rgba(226, 217, 213, 0.733);
+    border: none;
+    border-radius: 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#subscribe {
+    border: none;
+    height: 44px;
+    width: 200px;
+    background-color: rgb(134, 49, 34);
+    border-radius: 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#footer {
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+    color: white;
+    height: 70px;
+    font-style: italic;
+    padding: 2% 10% 4% 10%;
+    margin-top: 100px;
+}
